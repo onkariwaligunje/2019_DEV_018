@@ -1,6 +1,7 @@
 # 2019_DEV_018
     TennnisKata.java is a java file that contains code for the Tennis Kata problem statement.
-    jdk will be required to compile and run the java file.
+    Pre-requisite: jdk 
+    will be required to compile and run the java file.
 
     To compile TennisKata.java file use following command:
     javac TennisKata.java
